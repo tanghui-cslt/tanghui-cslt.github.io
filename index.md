@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Hui Tang's Homepage
 
-Here is my 
+I received my master's degree in school of mathematical science in 2020 under the supervision of Prof. David Xianfeng Gu and Prof. Zuhuan Yu from  Beijing Advanced innovation center for imageing theory and thchnology(CNUCIT Lab), Captial Normal university.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Before joining in CNUCIT Lab, I received my B.E degree from 
+
+
+
+
 
 ### Markdown
 
